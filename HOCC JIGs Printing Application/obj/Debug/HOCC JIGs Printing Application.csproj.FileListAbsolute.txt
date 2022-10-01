@@ -81,3 +81,31 @@ D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Applica
 D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CopyComplete
 D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.exe
 D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.pdb
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.exe.config
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.exe
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.pdb
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\log4net.dll
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Printers Form.dll
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\System.IO.Ports.dll
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\log4net.xml
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\bin\Debug\System.IO.Ports.xml
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.AssemblyReference.cache
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.ApplicationForm.resources
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.ApplicationIDForm.resources
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.LoginForm.resources
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.Properties.Resources.resources
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.GenerateResource.cache
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CopyComplete
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.exe
+C:\Users\ghost\Documents\HETRONIC-HOCC-Label-Generator\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.pdb

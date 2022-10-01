@@ -1,0 +1,83 @@
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.exe.config
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.exe
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.pdb
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\log4net.dll
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\System.IO.Ports.dll
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\log4net.xml
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\System.IO.Ports.xml
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csprojAssemblyReference.cache
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.ApplicationForm.resources
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.Properties.Resources.resources
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.GenerateResource.cache
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CopyComplete
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.exe
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.pdb
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.LoginForm.resources
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Printers Form.pdb
+D:\Projects\C#\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Printers Form.dll.config
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.exe.config
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.exe
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.pdb
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\log4net.dll
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\System.IO.Ports.dll
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\log4net.xml
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Printers Form.pdb
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Printers Form.dll.config
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\System.IO.Ports.xml
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csprojAssemblyReference.cache
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.ApplicationForm.resources
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.LoginForm.resources
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.Properties.Resources.resources
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.GenerateResource.cache
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CopyComplete
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.exe
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.pdb
+D:\Projects\C#\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.ApplicationIDForm.resources
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.exe.config
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.exe
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\HOCC JIGs Printing Application.pdb
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\log4net.dll
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Printers Form.dll
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\System.IO.Ports.dll
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\log4net.xml
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\bin\Debug\System.IO.Ports.xml
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.AssemblyReference.cache
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.SuggestedBindingRedirects.cache
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.ApplicationForm.resources
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.ApplicationIDForm.resources
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.LoginForm.resources
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC_JIGs_Printing_Application.Properties.Resources.resources
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.GenerateResource.cache
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CoreCompileInputs.cache
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.csproj.CopyComplete
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.exe
+D:\Projects\.NET Framework\Hetronic Projects\Released\HOCC JIGs Printing Application\HOCC JIGs Printing Application\obj\Debug\HOCC JIGs Printing Application.pdb

@@ -1,0 +1,12 @@
+1052013001;Total:9;Pass:9;Fail:0
+Serial:3;02-Dec-20 11:19:53 AM
+Serial:2;02-Dec-20 11:19:49 AM
+Serial:1;02-Dec-20 11:19:46 AM
+Serial:2;02-Dec-20 11:16:54 AM
+Serial:1;02-Dec-20 11:16:47 AM
+Serial:2;02-Dec-20 11:14:57 AM
+Serial:1;02-Dec-20 11:14:50 AM
+Serial:3;02-Dec-20 9:09:31 AM
+Serial:2;02-Dec-20 9:08:45 AM
+-------------------------------
+*
